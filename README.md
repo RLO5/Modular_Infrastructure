@@ -8,6 +8,7 @@
 -- 0xstackr (https://twitter.com/0xStackr): 
 > early, but was an ETH Global winner 
 >  enable the creation of “hybrid apps” leveraging “micro-rollups” Stackr SDK and Stackr Network
+
 به اپ چین ها آزادی انتخاب میده که اجزای مختلفشون رو خودشون انتخاب کنن
 > With Stackr SDK and Stackr Network, . ""Give the applications the freedom to choose various components of the development stack which just work together.""
 
