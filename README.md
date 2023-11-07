@@ -29,7 +29,7 @@
 
 -- EclipseFND (https://twitter.com/@EclipseFND)
 > Building a settlement rollup that allows SVM and other VM execution layers to be built on top
-> the apps built on its top, get the freedom to pick their virtual machine and different chains for data availability (like Cosmos and Polygon and other L1s for data availability.)
+> The apps built on its top, get the freedom to pick their virtual machine and different chains for data availability (like Cosmos and Polygon and other L1s for data availability.)
 ![image](https://github.com/RLO5/Modular_Infrastructure/assets/114177705/b4f9286d-c108-4de8-b3e2-35e713f1f423)
 
 --Sovereign Labs (twitter.com/@sovereign_labs)
