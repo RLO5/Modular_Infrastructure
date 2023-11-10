@@ -48,4 +48,31 @@ Oct 2023: Aphanet Release
 Dec 2023: Devnet Release
 Feb 2024: Testnet Release
 May 2024: Mainnet Release
-شر)
+
+summary:
+EigenLayer
+Celestia
+Dymension
+Fuel
+AvailProject
+
+Starknet
+Optimism
+Arbitrum
+zkSync
+Eclipse
+
+Cosmos
+Saga
+Dot
+
+Altlayer
+Fluent
+Conduit
+Caldera
+Vistara
+Espressosys
+Sovereign
+
+0xstackr
+airchains_io
