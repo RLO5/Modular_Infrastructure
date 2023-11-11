@@ -76,4 +76,4 @@ Sovereign
 
 0xstackr
 airchains_io
-//keep learning
+//continues
